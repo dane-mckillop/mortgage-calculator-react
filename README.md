@@ -1,5 +1,7 @@
 # Mortage Calculator
 
+REPO DEPRECATED. PORTED TO typescript"mortgage-calc-ts-react" project.
+
 Calculator for determining the total loan, interest, principal, monthly repayments and percentage composition of a mortage.
 
 Input:
